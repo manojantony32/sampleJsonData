@@ -1,5 +1,4 @@
-{
-"oojs": [
+
 {
   "sourceUrl": "https://dzone.com/refcardz/object-oriented-javascript",
   "Object Type Definition": [
@@ -14,42 +13,5 @@
         {"5": "Interfaces"},
         {"6": "Singleton Objects"},
         {"status": "false"}
-  ]
-},
-{
-  "Object Creation": [
-    {"1": "With new Operator"},
-    {"2": "With Object Literal"},
-    {"status": "false"}
-  ],
-  "Member Scoping": [
-    {"1": "Private Fields"},
-    {"2": "Privileged Methods"},
-    {"3": "Public Fields"},
-    {"status": "false"}
-  ],
-  "Inheritance": [
-    {"status": "false"}
-  ]
-},
-{
-  "Modularization": [
-    {"1": "Namespaces"},
-    {"2": "Modules"},
-    {"status": "false"}
-  ],
-  "Custom Exceptions": [
-    {"status": "false"}
-  ],
-  "Custom Events": [
-    {"status": "false"}
-  ],
-  "Writing Components": [
-    {"1": "Define JavaScript Component"},
-    {"2": "Define CSS Class to Correlate HTML Elements with JavaScript Components"},
-    {"3": "When page is loaded (or DOM ready), detect HTML elements and create components"},
-    {"status": "false"}
-  ]
-}
   ]
 }
