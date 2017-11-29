@@ -1,6 +1,7 @@
 
 {
   "sourceUrl": "https://dzone.com/refcardz/object-oriented-javascript",
+  "sourceUrl1": "https://gist.github.com/cklanac/1433963",
   "ObjectTypeDefinition": [
         {"1": "Type Definition"},
         {"2": "Instance Members"},
