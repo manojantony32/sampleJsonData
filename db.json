@@ -1,4 +1,6 @@
 {
+"oojs": [
+{
   "sourceUrl": "https://dzone.com/refcardz/object-oriented-javascript",
   "Object Type Definition": [
         {"1": "Type Definition"},
@@ -47,5 +49,7 @@
     {"2": "Define CSS Class to Correlate HTML Elements with JavaScript Components"},
     {"3": "When page is loaded (or DOM ready), detect HTML elements and create components"},
     {"status": "false"}
+  ]
+}
   ]
 }
