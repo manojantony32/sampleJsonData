@@ -1,8 +1,11 @@
 {
 	"sourceUrl": "https://dzone.com/refcardz/object-oriented-javascript",
-	"Object_Type_Definition": {
-		"Object Type Definition": ["Type Definition", "Instance Members", "Static Members",
-			"Abstract Types", "Interfaces", "Singleton Objects"
-		]
-	}
+	"Object_Type_Definition": [
+		"Type Definition",
+		"Instance Members",
+		"Static Members",
+		"Abstract Types",
+		"Interfaces",
+		"Singleton Objects"
+	]
 }
