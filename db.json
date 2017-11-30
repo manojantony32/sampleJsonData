@@ -1,18 +1,11 @@
-
 {
-  "sourceUrl": "https://dzone.com/refcardz/object-oriented-javascript",
-  "sourceUrl1": "https://gist.github.com/cklanac/1433963",
-  "ObjectTypeDefinition": [
-        {"1": "Type Definition"},
-        {"2": "Instance Members"},
-        {
-          "3": "Static Members",
-          "3.1": "Public Static Members",
-          "3.2": "Private Static Members"
-        },
-        {"4": "Abstract Types"},
-        {"5": "Interfaces"},
-        {"6": "Singleton Objects"},
-        {"status": "false"}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
